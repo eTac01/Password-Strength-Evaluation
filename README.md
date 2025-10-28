@@ -2,9 +2,6 @@
 
 what makes a password strong and evaluate it using online password strength tools.
 
-# Password Strength Evaluation
-
-
 ## Tools Used
 - [PasswordMeter.com](https://passwordmeter.com)
 
