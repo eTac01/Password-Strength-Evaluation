@@ -1,10 +1,9 @@
 # Password-Strength-Evaluation
+
 what makes a password strong and evaluate it using online password strength tools.
 
-# 🧩 Task 6 – Password Strength Evaluation
+# Password Strength Evaluation
 
-## Objective
-Understand what makes a password strong and evaluate it using online password strength tools.
 
 ## Tools Used
 - [PasswordMeter.com](https://passwordmeter.com)
